@@ -1,7 +1,26 @@
-h1 {
-    font-family: consolas;
-    border: 2px solid #73AD21;
-    border-radius: 25px;
-    margin: 0;
-    padding: 10px 0;
+.myname {
+    background-color: #4aaaa5;
+    height: 50px;
+    width: 16%;
+    margin: auto;
+    
+  }
+
+.aboutsection {
+  margin: auto;
+  height: 50px;
+  width: 960px;
+
+  }
+
+.abouttitle {
+  background-color: #4aaaa5;
+  height: 50px;
+  width: 16%;
+  margin: auto;
+  margin-top: 50px;
+  }
+
+  body {
+    background-image: url('img/white-waves.png');
   }
