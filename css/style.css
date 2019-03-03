@@ -3,26 +3,87 @@
     height: 50px;
     width: 16%;
     margin: auto;
-    
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 17px;
+    right: 358px;
   }
 
 .aboutsection {
-  margin: auto;
-  height: 50px;
+  margin:  auto;
+  height: 460px;
   width: 960px;
-
+  background-color: white;
   }
 
 .abouttitle {
-  background-color: #4aaaa5;
+  color: #4aaaa5;
   height: 50px;
-  width: 16%;
-  margin: auto;
+  width: 57%;
+  margin-bottom: 20px;
   margin-top: 50px;
+  position: absolute;
+  top: 40px;
+  left: 330px;
+  background-color: white;
+  border-bottom: 2px solid grey;
+  display: inline-block;
+  line-height: 0.85;
+  }
+
+  .atitle {
+    text-decoration: underline;
+
+  }
+
+  .p1 {
+    position: absolute;
+    top: 150px;
+    margin-right: 20%;
+  }
+
+  .p2 {
+    position: absolute;
+    top: 260px;
+    margin-right: 20%;
+  }
+
+  .p3 {
+    position: absolute;
+    top: 330px;
+    margin-right: 20%;
+  }
+
+  .p4 {
+    position: absolute;
+    top: 400px;
+    margin-right: 20%;
   }
 
   body {
     background-image: url('../images/white-waves.png');
+    border: 20%;
+    border-color: white;
+  }
+
+  .tablinks {
+    position: relative;
+    left: 1050px;
+
+  }
+
+  footer{
+    background-color: black;
+    border-top: 8px solid #4aaaa5;
+    display: inline-block;
+    line-height: 0.85;
+    color: white;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    bottom: 0%;
+    text-align: center;
   }
 
   
