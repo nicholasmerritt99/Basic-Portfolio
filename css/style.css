@@ -34,7 +34,6 @@
 
   .atitle {
     text-decoration: underline;
-
   }
 
   .p1 {
@@ -70,6 +69,8 @@
   .tablinks {
     position: relative;
     left: 1050px;
+    width: 60px;
+    height: 15px;
 
   }
 
