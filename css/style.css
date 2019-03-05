@@ -45,6 +45,7 @@
   }
 
   .atitle {
+    margin: auto;
     text-decoration: underline;
     position: fixed;
     top: 17%;
