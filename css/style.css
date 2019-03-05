@@ -6,7 +6,19 @@
     color: white;
     text-align: center;
     position: relative;
-    top: 17px;
+    top: 40px;
+    right: 350px;
+  }
+
+  .myname2 {
+    background-color: #4aaaa5;
+    height: 50px;
+    width: 16%;
+    margin: auto;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 40px;
     right: 358px;
   }
 
@@ -20,12 +32,12 @@
 .abouttitle {
   color: #4aaaa5;
   height: 50px;
-  width: 57%;
+  width: 80%;
   margin-bottom: 20px;
   margin-top: 50px;
   position: absolute;
-  top: 40px;
-  left: 330px;
+  top: 30px;
+  left: 45px;
   background-color: white;
   border-bottom: 2px solid grey;
   display: inline-block;
@@ -34,6 +46,9 @@
 
   .atitle {
     text-decoration: underline;
+    position: fixed;
+    top: 17%;
+    left: 300px;
   }
 
   .p1 {
@@ -61,13 +76,13 @@
   }
 
   body {
-    background-image: url('../images/white-waves.png');
-    border: 20%;
+    background-image: url('../images/gravel.png');
     border-color: white;
   }
 
   .tablinks {
     position: relative;
+    top: 20px;
     left: 1050px;
     width: 60px;
     height: 15px;
@@ -88,6 +103,7 @@
     width: 100%;
     position: fixed;
     bottom: 0%;
+    left: 0%;
     text-align: center;
   }
 
@@ -113,8 +129,23 @@
 
   .form {
     border-radius: 5px;
-    background-color: #f2f2f2;
+    background-color: white;
     padding: 20px;
+    width: 62%;
+    height: 72%;
+    margin-left: 275px;
+    position: fixed;
+    top: 14%;
+    left: 260;
+  }
+
+  .header {
+    width: 100%;
+    height: 90px;
+    background-color: white;
+    position: fixed;
+    top: 0%;
+    left: 0%;
   }
 
   
