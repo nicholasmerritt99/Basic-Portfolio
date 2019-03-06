@@ -195,8 +195,8 @@
   }
 
   .business {
-    width: 170px;
-    height: 180px;
+    width: 150px;
+    height: 160px;
     position: absolute;
     top: 25%;
     left: 5%;
@@ -208,6 +208,38 @@
     height: 500px;
     width: 960px;
     background-color: white;
+    }
+
+    .sports {
+      width: 150px;
+      height: 160px;
+      position: absolute;
+      top: 25%;
+      left: 25%;
+    }
+
+    .food {
+      width: 150px;
+      height: 160px;
+      position: absolute;
+      top: 25%;
+      left: 45%;
+    }
+
+    .technics {
+      width: 150px;
+      height: 160px;
+      position: absolute;
+      top: 65%;
+      left: 5%;
+    }
+
+    .fun {
+      width: 150px;
+      height: 160px;
+      position: absolute;
+      top: 65%;
+      left: 25%;
     }
 
 
