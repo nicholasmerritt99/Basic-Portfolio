@@ -17,7 +17,7 @@
     margin: auto;
     color: white;
     text-align: center;
-    position: relative;
+    position: fixed;
     top: 4.5%;
     right: 65%;
   }
