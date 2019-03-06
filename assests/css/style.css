@@ -6,7 +6,7 @@
     color: white;
     text-align: center;
     position: fixed;
-    top: 5.6%;
+    top: 4%;
     right: 65%;
   }
 
@@ -83,7 +83,7 @@
 
   .tablinks1 {
     position: fixed;
-    top: 9%;
+    top: 7%;
     left: 65%;
     width: 60px;
     height: 15px;
@@ -96,7 +96,7 @@
 
   .tablinks2 {
     position: fixed;
-    top: 9%;
+    top: 7%;
     left: 70%;
     width: 60px;
     height: 15px;
@@ -108,7 +108,7 @@
 
   .tablinks3 {
     position: fixed;
-    top: 9%;
+    top: 7%;
     left: 75%;
     width: 60px;
     height: 15px;
