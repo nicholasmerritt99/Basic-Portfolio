@@ -194,6 +194,22 @@
     line-height: 0.85;
   }
 
+  .business {
+    width: 170px;
+    height: 180px;
+    position: absolute;
+    top: 25%;
+    left: 5%;
+
+  }
+
+  .portfoliosection {
+    margin:  auto;
+    height: 500px;
+    width: 960px;
+    background-color: white;
+    }
+
 
 
   
