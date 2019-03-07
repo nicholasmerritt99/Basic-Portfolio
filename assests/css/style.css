@@ -24,7 +24,7 @@
 
 .aboutsection {
   margin:  auto;
-  height: 460px;
+  height: 470px;
   width: 960px;
   background-color: white;
   }
@@ -52,6 +52,13 @@
     left: 19%;
   }
 
+  .Profilepic {
+    height: 100px;
+    width: 150px;
+    float: left;
+    padding-right: 5px;
+  }
+
   .p1 {
     position: absolute;
     top: 150px;
@@ -61,21 +68,21 @@
 
   .p2 {
     position: absolute;
-    top: 270px;
+    top: 290px;
     margin-right: 20%;
     line-height: 20px;
   }
 
   .p3 {
     position: absolute;
-    top: 360px;
+    top: 380px;
     margin-right: 20%;
     line-height: 20px;
   }
 
   .p4 {
     position: absolute;
-    top: 420px;
+    top: 440px;
     margin-right: 20%;
   }
 
@@ -153,6 +160,11 @@
     border: none;
     border-radius: 4px;
     cursor: pointer;
+  }
+
+  input[type=submit]:hover {
+    background-color: purple;
+    color: pink;
   }
 
   .form {
@@ -251,8 +263,10 @@
       left: 5%;
       background-color: #4aaaa5;
       width: 15.6%;
-      height: 7%;
+      height: 6%;
       text-align: center;
+      color: white;
+      font-family: 'Srisakdi', cursive;
     }
 
     .bottom-left2 {
@@ -261,8 +275,10 @@
       left: 25%;
       background-color: #4aaaa5;
       width: 15.6%;
-      height: 7%;
+      height: 6%;
       text-align: center;
+      color: white;
+      font-family: 'Srisakdi', cursive;
     }
 
     .bottom-left3 {
@@ -271,8 +287,10 @@
       left: 45%;
       background-color: #4aaaa5;
       width: 15.6%;
-      height: 7%;
+      height: 6%;
       text-align: center;
+      color: white;
+      font-family: 'Srisakdi', cursive;
     }
 
     .bottom-left4 {
@@ -281,8 +299,10 @@
       left: 5%;
       background-color: #4aaaa5;
       width: 15.6%;
-      height: 7%;
+      height: 6%;
       text-align: center;
+      color: white;
+      font-family: 'Srisakdi', cursive;
     }
 
     .bottom-left5 {
@@ -291,13 +311,15 @@
       left: 25%;
       background-color: #4aaaa5;
       width: 15.6%;
-      height: 7%;
+      height: 6%;
       text-align: center;
+      color: white;
+      font-family: 'Srisakdi', cursive;
     }
 
-    @media only screen and (max-width: 600px) {
+    @media only screen and (min-width : 1824px) {
       #mynameh1 {
-        font-size: 10px;
+        font-size: 5px;
         }
       }
   
