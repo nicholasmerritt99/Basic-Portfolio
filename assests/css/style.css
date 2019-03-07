@@ -1,12 +1,12 @@
-.myname {
+#mynameh1 {
     background-color: #4aaaa5;
-    height: 50px;
+    height: 10vh;
     width: 16%;
     margin: auto;
     color: white;
     text-align: center;
     position: fixed;
-    top: 4.5%;
+    top: 2.6%;
     right: 65%;
   }
 
@@ -56,23 +56,26 @@
     position: absolute;
     top: 150px;
     margin-right: 20%;
+    line-height: 20px;
   }
 
   .p2 {
     position: absolute;
-    top: 260px;
+    top: 270px;
     margin-right: 20%;
+    line-height: 20px;
   }
 
   .p3 {
     position: absolute;
-    top: 330px;
+    top: 360px;
     margin-right: 20%;
+    line-height: 20px;
   }
 
   .p4 {
     position: absolute;
-    top: 400px;
+    top: 420px;
     margin-right: 20%;
   }
 
@@ -241,6 +244,63 @@
       top: 65%;
       left: 25%;
     }
+
+    .bottom-left1 {
+      position: absolute;
+      top: 50%;
+      left: 5%;
+      background-color: #4aaaa5;
+      width: 15.6%;
+      height: 7%;
+      text-align: center;
+    }
+
+    .bottom-left2 {
+      position: absolute;
+      top: 50%;
+      left: 25%;
+      background-color: #4aaaa5;
+      width: 15.6%;
+      height: 7%;
+      text-align: center;
+    }
+
+    .bottom-left3 {
+      position: absolute;
+      top: 50%;
+      left: 45%;
+      background-color: #4aaaa5;
+      width: 15.6%;
+      height: 7%;
+      text-align: center;
+    }
+
+    .bottom-left4 {
+      position: absolute;
+      top: 90%;
+      left: 5%;
+      background-color: #4aaaa5;
+      width: 15.6%;
+      height: 7%;
+      text-align: center;
+    }
+
+    .bottom-left5 {
+      position: absolute;
+      top: 90%;
+      left: 25%;
+      background-color: #4aaaa5;
+      width: 15.6%;
+      height: 7%;
+      text-align: center;
+    }
+
+    @media only screen and (max-width: 600px) {
+      #mynameh1 {
+        font-size: 10px;
+        }
+      }
+  
 
 
 
